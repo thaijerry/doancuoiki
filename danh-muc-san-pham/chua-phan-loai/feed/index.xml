@@ -43,7 +43,7 @@
 					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
 			</select>
 	<input type="hidden" name="paged" value="1" />
-	<input type="hidden" name="simply_static_page" value="15519" /></form>
+	<input type="hidden" name="simply_static_page" value="15769" /></form>
 <ul class="products columns-4">
 <li class="product type-product post-960 status-publish first instock product_cat-chua-phan-loai has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://thaijerry.github.io/doancuoiki/san-pham/collar-wool-jacket-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="400" src="https://thaijerry.github.io/doancuoiki/wp-content/uploads/2023/06/products-21-600x675-2-300x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" /><h2 class="woocommerce-loop-product__title">COLLAR WOOL JACKET</h2>
@@ -98,9 +98,9 @@
 <nav class="woocommerce-pagination">
 	<ul class='page-numbers'>
 	<li><span aria-current="page" class="page-numbers current">1</span></li>
-	<li><a class="page-numbers" href="/bacsiseo/danh-muc-san-pham/chua-phan-loai/feed/?simply_static_page=15519&#038;product-page=2">2</a></li>
-	<li><a class="page-numbers" href="/bacsiseo/danh-muc-san-pham/chua-phan-loai/feed/?simply_static_page=15519&#038;product-page=3">3</a></li>
-	<li><a class="next page-numbers" href="/bacsiseo/danh-muc-san-pham/chua-phan-loai/feed/?simply_static_page=15519&#038;product-page=2">&rarr;</a></li>
+	<li><a class="page-numbers" href="/bacsiseo/danh-muc-san-pham/chua-phan-loai/feed/?simply_static_page=15769&#038;product-page=2">2</a></li>
+	<li><a class="page-numbers" href="/bacsiseo/danh-muc-san-pham/chua-phan-loai/feed/?simply_static_page=15769&#038;product-page=3">3</a></li>
+	<li><a class="next page-numbers" href="/bacsiseo/danh-muc-san-pham/chua-phan-loai/feed/?simply_static_page=15769&#038;product-page=2">&rarr;</a></li>
 </ul>
 </nav>
 </div>]]></content:encoded>
