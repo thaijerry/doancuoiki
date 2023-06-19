@@ -15,7 +15,7 @@
 	<atom:link href="https://thaijerry.github.io/doancuoiki/danh-muc-san-pham/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thaijerry.github.io/doancuoiki</link>
 	<description></description>
-	<lastBuildDate>Mon, 12 Jun 2023 15:01:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Jun 2023 07:57:14 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,7 +27,7 @@
 		<link></link>
 		
 		<dc:creator><![CDATA[Thái]]></dc:creator>
-		<pubDate>Mon, 12 Jun 2023 06:39:53 +0000</pubDate>
+		<pubDate>Mon, 19 Jun 2023 07:57:14 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Hiển thị 1&#8211;12 của 30 kết quả Thứ tự mặc định Thứ tự theo mức [&#8230;]]]></description>
@@ -43,7 +43,7 @@
 					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
 			</select>
 	<input type="hidden" name="paged" value="1" />
-	<input type="hidden" name="simply_static_page" value="16775" /></form>
+	<input type="hidden" name="simply_static_page" value="17366" /></form>
 <ul class="products columns-4">
 <li class="product type-product post-960 status-publish first instock product_cat-shop has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://thaijerry.github.io/doancuoiki/san-pham/collar-wool-jacket-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="400" src="https://thaijerry.github.io/doancuoiki/wp-content/uploads/2023/06/products-21-600x675-2-300x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" /><h2 class="woocommerce-loop-product__title">COLLAR WOOL JACKET</h2>
@@ -98,9 +98,9 @@
 <nav class="woocommerce-pagination">
 	<ul class='page-numbers'>
 	<li><span aria-current="page" class="page-numbers current">1</span></li>
-	<li><a class="page-numbers" href="/bacsiseo/danh-muc-san-pham/shop/feed/?simply_static_page=16775&#038;product-page=2">2</a></li>
-	<li><a class="page-numbers" href="/bacsiseo/danh-muc-san-pham/shop/feed/?simply_static_page=16775&#038;product-page=3">3</a></li>
-	<li><a class="next page-numbers" href="/bacsiseo/danh-muc-san-pham/shop/feed/?simply_static_page=16775&#038;product-page=2">&rarr;</a></li>
+	<li><a class="page-numbers" href="/bacsiseo/danh-muc-san-pham/shop/feed/?simply_static_page=17366&#038;product-page=2">2</a></li>
+	<li><a class="page-numbers" href="/bacsiseo/danh-muc-san-pham/shop/feed/?simply_static_page=17366&#038;product-page=3">3</a></li>
+	<li><a class="next page-numbers" href="/bacsiseo/danh-muc-san-pham/shop/feed/?simply_static_page=17366&#038;product-page=2">&rarr;</a></li>
 </ul>
 </nav>
 </div>]]></content:encoded>
