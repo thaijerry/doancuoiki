@@ -35,7 +35,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Tự động đăng nhập</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Đăng nhập">
-									<input type="hidden" name="redirect_to" value="http://localhost/bacsiseo/wp-admin/post.php?simply_static_page=19504">
+									<input type="hidden" name="redirect_to" value="http://localhost/bacsiseo/wp-admin/post.php?simply_static_page=20311">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
@@ -60,7 +60,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 					<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
 <option value="vi" lang="vi" selected data-installed="1">Tiếng Việt</option></select>
 					
-											<input type="hidden" name="redirect_to" value="http://localhost/bacsiseo/wp-admin/post.php?simply_static_page=19504">
+											<input type="hidden" name="redirect_to" value="http://localhost/bacsiseo/wp-admin/post.php?simply_static_page=20311">
 					
 					
 						<input type="submit" class="button" value="Thay đổi">
