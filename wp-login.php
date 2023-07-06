@@ -35,7 +35,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Tự động đăng nhập</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Đăng nhập">
-									<input type="hidden" name="redirect_to" value="http://localhost/bacsiseo/wp-admin/post.php?simply_static_page=21118">
+									<input type="hidden" name="redirect_to" value="http://localhost/bacsiseo/wp-admin/post.php?simply_static_page=21925">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
@@ -60,7 +60,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 					<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
 <option value="vi" lang="vi" selected data-installed="1">Tiếng Việt</option></select>
 					
-											<input type="hidden" name="redirect_to" value="http://localhost/bacsiseo/wp-admin/post.php?simply_static_page=21118">
+											<input type="hidden" name="redirect_to" value="http://localhost/bacsiseo/wp-admin/post.php?simply_static_page=21925">
 					
 					
 						<input type="submit" class="button" value="Thay đổi">
@@ -103,7 +103,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/bacsiseo\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://thaijerry.github.io/doancuoiki/wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"c45c258126"};
+var userProfileL10n = {"user_id":"0","nonce":"089c7d9ebb"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">( function( domain, translations ) {
